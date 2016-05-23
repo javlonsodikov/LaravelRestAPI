@@ -1,0 +1,23 @@
+{
+  "name": "LRestfullApi",
+  "authors": [
+    "Javlon Sodikov <javlonuser@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.12.3",
+    "angular": "1.5.5"
+  }
+}
+
